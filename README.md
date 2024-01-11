@@ -38,6 +38,8 @@
     - Sequelize ORM
     - Express.js
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MateusFelipe12&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
 
 ## 📝 Sobre
 Sou um desenvolvedor web de 20 anos que vive para inovar e adora desafios!
@@ -51,7 +53,7 @@ Sou um desenvolvedor web de 20 anos que vive para inovar e adora desafios!
 - **Estagiário** (jun de 2022 - ago de 2022 · 3 meses)
 
 ## 📈 Gráfico de Contribuição
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MateusFelipe12&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-<img src="https://github-readme-stats.vercel.app/api?username=MateusFelipe12&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="ovi" />
 
 <img src="https://myreadme.vercel.app/api/embed/MateusFelipe12?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="ovi" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=MateusFelipe12&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="ovi" />
